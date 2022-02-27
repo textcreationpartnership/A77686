@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning the judgements of God; for and against what they are decreed, and what judgement is in it self. : And also what is the eternal judgement of God against the wicked and ungodly.</title>
+            <author>R. B. (Richard Baker)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660-1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77686</idno>
+            <idno type="STC">Wing B514A</idno>
+            <idno type="STC">ESTC R170429</idno>
+            <idno type="EEBO-CITATION">45789146</idno>
+            <idno type="OCLC">ocm 45789146</idno>
+            <idno type="VID">172459</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77686)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172459)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2630:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning the judgements of God; for and against what they are decreed, and what judgement is in it self. : And also what is the eternal judgement of God against the wicked and ungodly.</title>
+                  <author>R. B. (Richard Baker)</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>166-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed R.B.; attributed to Richard Baker by Wing.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172459:1" rendition="simple:additions"/>
+            <head>
+               <hi>Concerning the Judgements of God;</hi> for and againſt what they are decreed, and what Judgement is in it ſelf. <hi>And alſo what is the eternal Judgement of God</hi> againſt the wicked and ungodly.</head>
+            <p>THe Judgement of God is according to his mind and w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll and is not againſt, but for his creature, and attends to his creatures preſervation, and it never became pain<g ref="char:EOLhyphen"/>ful to his creature, untill he went from his Spirits gui<g ref="char:EOLhyphen"/>dance, and then into the unſoundneſſe of Judgement for according to ſound and true Judgment he wroug<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and eſtabliſhed all his <hi>Decreeings, (in the councel of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Will, and working of his mighty Power)</hi> and therein his purpoſes and determi<g ref="char:EOLhyphen"/>nations are exalted; ſo that the Judgments of God are againſt nothing but what makes for his creatures hurt, and they that have ſuch an eye of reſpect thereto, and faith and belief therein, are made ſound in Judgement thereby.</p>
+            <p>For the working of the Spirit of God is firſt in the Judgement of the creature, wherein it convinceth him of ſin, and offence to the Spirit of God, and for that reproves him; and then of righteouſneſs <hi>(in the ſame mind held and retained;)</hi> and as it leads from the one <hi>(the ſelf-righteouſneſſe,</hi> &amp;c.) ſo it leads to the other <hi>(the righteouſneſſe of God wrought by faith in him,)</hi> and then comes the <hi>Prince of the power of the Ayre to be judged:</hi> But in this work the judgement of the creature, <hi>in reference to what hath been firſt joyned to,</hi>) comes forth torne and unſound; for God firſt breaks and tares the creature from other Lovers <hi>then Himſelf;</hi> the cauſe of the brui<g ref="char:EOLhyphen"/>ſing being then in the creature, and as he ſubmits to the Judgement of God, a ſhort work is made in the Earth, without any ſtruglings and ſtri<g ref="char:EOLhyphen"/>vings of ſuch the creature; for all the ſtruglings and ſtrivings of the crea<g ref="char:EOLhyphen"/>ture, is to keep life in that the Judgement is againſt, and therein is the pain, and woundings, and bruiſes of the creature, and the weakneſs and nakedneſs of the creature comes thereby to be ſeen, which other<g ref="char:EOLhyphen"/>wiſe would be covered, hid, and healed, (as Judgement had its due on the wrong part in the creature,) and that which is for Judgement, <hi>either for the Sword, or the Famine, or the Plague,</hi> given up thereto.)</p>
+            <p>And the plagues and torment ceaſeth, &amp; the creature then comes forth ſound and wholſome in Judgement, and to be of a healing ſpirit, and ſa<g ref="char:EOLhyphen"/>ving nature, and the plague ſtays in the Earth, and good tidings, and the Goſpel of peace ſprings up, and the ſtorm is alayed, and all is quieted and calme<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>within and without;</hi> and then, <hi>How beautifull are their feet on the Mountains! and over every high hill they can walk pleaſantly,</hi> that being
+<pb facs="tcp:172459:2"/>
+under which was once over <hi>(when the Seed was in the Valleys of Iſrael;)</hi> but then comes to be raiſed, and truth to ſpring up over all.</p>
+            <p>And thus are all the Judgements of God according to righteouſ<g ref="char:EOLhyphen"/>neſs, and thereby is <hi>Zion</hi> redeemed, <hi>even by the ſpirit of judgement and burning;</hi> and ſo the Judgements are for a light, and then mercy and truth meets (in one,) and in that one righteouſneſs and peace can, and doth em<g ref="char:EOLhyphen"/>brace and kiſſe <hi>each other;</hi> and ſo <hi>Zion</hi> hath the Law of God, and his Word goes forth from <hi>Jeruſalem,</hi> and Daughters of <hi>Zion</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e no more <hi>healed deceitfully,</hi> nor no ſmooth thing preached to the world, but <hi>Judgement laid to the Line, and Righteouſneſſe to the Plummet;</hi> and yet all at home quiet and well compoſed; but the uneven and rugged is abroad, and then the hewings and plainings goes on the uneven, and that according to true and ſound Judgement, <hi>where nothing even is battered againſt, but the Line takes that in,</hi> but the rugged it leaves out, and the hewers ſets on <hi>that.</hi>
+            </p>
+            <p>And ſo though the fire be eternall <hi>(that is kindled in ſuch)</hi> and ſhall never go out, yet the pain is not eternall; but as the creature is made as willing to leave the evill <hi>(that God doth ſhew unto him, and judge in him)</hi> as God is, ſo to diſcover and judge it, he dyes from the evill, and ſo all pain in the <hi>Judgement of God</hi> ceaſeth, and then come death or life, or any afflictions <hi>(though he ſeeth it come up under the ſufferance of Gods Spirit, and in judgement to the cauſe thereof,)</hi> yet the cauſe being removed in him, he hath learned content <hi>therein and there under,</hi> having a faith in the redeemed life, and the work of God <hi>therein,</hi> that hath kept from fainting <hi>by the way,</hi> and doth keep from deſparation or ſinking of ſpirit, <hi>under any outward afflictions,</hi> ſo the Creation of God ſhall be redeemed (in all the world,) and not without Judgement <hi>to that which hath cauſed it to ſuffer,</hi> and none that keeps in the ſenſe of its ſufferance and faith of the redemption thereof, ſhall ever be left to fail by preſumption or deſparation under this Judgement.</p>
+            <div type="part">
+               <head>The Ground of all the occaſion of offence in the world, at this day <hi>(given or taken in the wrong Ground and Part)</hi> and how, and wherein many are offended in <hi>Chriſt,</hi> (it being the ſame mind that gives <hi>the juſt occaſion of offence, that unjuſtly taketh occaſion therein.</hi>)</head>
+               <p>THe Ground of all the occaſion of offence in the world, and at this day <hi>(given and taken in the wrong part;)</hi> is againſt Chriſt, that many are ſtumbling at (becauſe he is become a Rock of of<g ref="char:EOLhyphen"/>fence <hi>to both the houſes of Iſrael,</hi>) and <hi>offences will come, but woe
+<pb facs="tcp:172459:2"/>
+unto them by whom they ſo come;</hi> yet herein is a conſideration very great and weighty; that the whole man is not to be judged in the occaſion gi<g ref="char:EOLhyphen"/>ven or taken <hi>(in this wrong part and ground;)</hi> for there may be a good ground from whence theſe tares cometh and proceedeth, and in this ground God ſowed good ſeed, but this is the enemies work <hi>(while the good man ſlept,)</hi> and he it is ſowed all theſe tares, <hi>that cumbers the ground,</hi> and take heed of being too haſty, in the plucking them up, leaſt thou alſo offend the Lord of the Harveſt <hi>(that art offended at the tares,)</hi> for both are to grow together untill then.</p>
+               <p>Now that which gives, or takes offence <hi>(in the wrong ground and part)</hi> is ſelf; for ſelf is high and will full, and cannot bear any thing it ſees or imagines amiſs <hi>in others,</hi> but preſently falleth to judging, never con<g ref="char:EOLhyphen"/>ſidering where it be thy place to judge, and whether it be Gods time, way, and manner (thou art giving ſentence in;) that would have nothing judged before the ſecret of the heart be manifeſt? or rather whether ſome<g ref="char:EOLhyphen"/>thing be not got up that would uſurp the Seat and Authority of Judge<g ref="char:EOLhyphen"/>ment (for, and to ſelf?) And then if the thing were really an evill thou may ſpye out or imagine, and ſo readily paſſeſt ſentence on) it being thy place rather to bear and ſuffer it (untill an Authority in God is raiſed to miniſter for the removing thereof) in the want of patience, and the wiſ<g ref="char:EOLhyphen"/>dome of God to manage the matter thou undertakeſt, thou manifeſteth thy own evil, and weakneſſe in judgement, and it appeares that it is the ſecret of thy own heart that the judgement of God is againſt, thou art ſo fiercely powring out againſt others; and well thou mayeſt raiſe a Divel in that mind, and ſtrengthen the evil thou wouldeſt ſeeme to judge (when out of the Authority of God) but caſt him out or alay him thou canſt not (in that mind, blinded with ſelf conceit), becauſe that is firſt to be removed at home, and the judgement of God kept thereon there (againſt what defileth Gods way and manner of miniſtring judgement to the world) er'e the healing vertue of the ſpring of life can give forth, to the neceſſity of the creature of God, and that ariſe which is felt in God, and thou recei<g ref="char:EOLhyphen"/>ved in the Authority of Judgement againſt evil; but well thou mayeſt beat the Ayre, and ſowe wind, never will a true ſubjection attend that Miniſtry, that at beſt can but make ſubject for wrath, while the conſciona<g ref="char:EOLhyphen"/>ble principle, and that which makes ſubject therefore, is, not come into, and dwelt in; but a mind continued in, would have fire come down <hi>from Heaven</hi> and conſume ſuch they are not in charity with, and ſecretly wiſheth and deſireth evill in their hearts, <hi>may befall their Adverſary;</hi> as was ſeen of old, (and yet this once was a Prophets and Diſciples ſtate; as re<g ref="char:EOLhyphen"/>member <hi>Jonah,</hi> that rather pityed a Gourd <hi>that came up in one night, and to morrow was not,</hi> than ſix ſcore thouſand perſons; and the reaſon, becauſe of a ſtate of Propheſie, he was come to, and to have a word from the Lord, and therein was ſtrengthned <hi>in the judgement of what God had ſhewn him;</hi> but not in the life of pity; <hi>of that he was convinced by a weaker means;</hi>) well verily this is the greateſt ſign can be given <hi>to this Generation</hi> (even
+<pb facs="tcp:172459:3"/>
+the repentings of the people at the preachings of a <hi>Prophet,</hi> and of God <hi>in judgements againſt them;</hi>) were this read through, it would preach much in this Age.</p>
+               <p>For it is commonly ſaid, They hate not the perſons, but the evil in the perſons; and yet many would have the perſons of men deſtroyed, rather than they looſe the honour of a Prophet, yea and ſorely ſtrike <hi>at the whole man,</hi> and yet ſay it is for Conſcience ſake, and the Cauſe is Gods, they are ſo zealous for; and wherein doth it appear? canſt thou then feed thy enemy? canſt lay down thy life for him? canſt ſtoop to be re<g ref="char:EOLhyphen"/>conciled to him (to the abaſing ſelf to the death? to the croſſing thy own will to the utmoſt?) this will try thy Cauſe or Zeal, whoever thou art, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or I am no reſpecter of perſons in this work:</hi> or rather art thou backbiting, and perſecuting, and ſmiting with tongue or hand, or both? and yet is thy Cauſe God's? But ſuch are Hereticks <hi>(ſaith the world)</hi> they are enemies to truth, and ſuch are Gods enemies, and not ours, and we cannot forgive them? Well then, Are ye Chriſtians? Such that are Gods enemies, are Chriſts; and ſuch that were his, he layed down his life for, and prayed the Fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her to forgive; and the Cauſe was Gods, he came about, and in the name of, that he could have revenged himſelf <hi>(in)</hi> on his enemies; for <hi>He could have prayed the Father, and have had more than twelve Legions of Angels to deliver him.</hi>
+               </p>
+               <p>So this is to make an Argument to hold; but then thou mayeſt ſay, this life of forgiveneſs is on conditions of repentance <hi>(then indeed not onely till ſeavan times, but ſeaventy times, thou canſt be content to forgive, or as oft as thy brother may offend thee?)</hi> But haſt thou uſed a means therefore, to take one or two with thee, <hi>if he will not hear thee,</hi> and reaſon of the thing between ye in love (Or is it really an evill thou art offended at?) elſe the occaſion is in t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee? that takeſt it ſo before it be juſtly given; for he muſt be con<g ref="char:EOLhyphen"/>vinced of an evil therein, before he can truly and rightly leave it; and if the practiſe or thing thou takeſt occaſion at, be not abſolutely an evill in its ſelfe, nor the practiſer ſeeth no evill therein to him, in the uſe or pra<g ref="char:EOLhyphen"/>ctiſe thereof, he muſt needs be a hypocrite to leave it for anothers words, and at beſt but a man-pleaſer, and time-ſerver, <hi>(unleſſe for Conſcience ſake it be a thing may be yielded to, and there be a ſpirit fitted thereto of God)</hi> And the God of peace and love perſwade the upright hearted herein.</p>
+               <p>Beſides, Thou art to conſider againſt whom, and what the offence is; and if it be againſt God onely, may be there hath been, and is come up the life of repentance (which is more than words,) that hath been brought forth from what hath been wrought in ſecret in the hidden r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tired life of converſe with God,) and then what matters it where a teſtimony be given to man or men (in words?) ſeeing it may be a matter of Conſcience to the convert, to come under the cenſure of men, againſt whom he is not convinced of any juſt occaſion of offence, but ſeeth the ground to be one (in them that took occaſion at what was an offence to the Spirit of God,
+<pb facs="tcp:172459:3"/>
+                  <hi>[with himſelf that gave it;]</hi> And then what took occaſion <hi>(through an evil eye that hath watched for haultings)</hi> to magnifie and exalt ſelf <hi>[in the ſelfiſh creaturely Judgment]</hi> concerning what is ſpyed out of the creatures weak<g ref="char:EOLhyphen"/>neſs) he well knows will be further ſtrengthened by ſuch ſubmiſſions of men and to men <hi>(that his converſe with God hath altered his converſation to<g ref="char:EOLhyphen"/>ward; for which only he deſires to be believed;)</hi> in that the offence was only and chiefly againſt God <hi>(though accidentally the creature hath been, or may be, or probably will make it ſelf concerned therein;)</hi> and the life of repent<g ref="char:EOLhyphen"/>ance <hi>[from evill]</hi> is that which God looks at <hi>only.</hi> Yea,</p>
+               <p>You High and Mighty of the earth, that are in the hard Judgments of the worldly ſpirit, and in the fault-finding nature <hi>[of what takes occaſion againſt the innocent,]</hi> ſearch what ſpirit ye are of <hi>(that would make a man offendour for a word, or lay a ſnare for him that reproves ſin in the Gates, and would pervert the juſt for a thing of nought:)</hi> Conſider your way before the Lord, whether ye are doing as ye would be done by <hi>(that ſo readily paſs judgment againſt the creature of God (for and about outward things and out<g ref="char:EOLhyphen"/>ward Worſhips and Service] and yet pretend your zeal to be for God, that looks inward, and at the heart, and ſeeks and requires ſuch worſhip, and ſuch to worſhip him, that worſhip him in Spirit and in Truth;)</hi> will your impriſonments and cruel cenſures <hi>[think ye.]</hi> about ſuch things as theſe, give ye eaſe <hi>(when Gods witneſs is awakened for himſelf [in all the world] as I am aſſured it ſhall?</hi> you are verily thoſe that give juſt occaſion to God <hi>againſt you,</hi> and are in the juſt cauſe of offence <hi>to his Spirit, and Spirits work and workings,</hi> though in the ſame mind ye take offence againſt him <hi>[that many are offended in,]</hi> for the day hath dawned, and the day light doth manifeſt the fulfilling of the words of Chriſt, that ſaid, <hi>Me they hate</hi> (ſpeaking of the world) <hi>be<g ref="char:EOLhyphen"/>cauſe I bear witneſs againſt the deeds thereof, that they are evil;</hi> and it was not ſo much them that followed him as for his ſake <hi>that came into the world to bear witneſs againſt the deeds thereof)</hi> that was the cauſe and ground of the worlds hatred and offence <hi>(they take at and againſt them;)</hi> that he cal<g ref="char:EOLhyphen"/>led blind-guides, that would ſeem to ſtrain at a gnat, and ſwallow a Ca<g ref="char:EOLhyphen"/>mel; and to find fault with a moat <hi>in their brothers eye,</hi> and could not ſee the beam <hi>in their own;</hi> which is the moſt dangerous eſtate in the world. And</p>
+               <p>Therefore was theſe ſayings given forth of old, that we might not be offended in what cometh to paſſe; but that ſelf the offendour <hi>[againſt the Spirit and Life of God,]</hi> that firſt appeared <hi>[in the world]</hi> and ſtill doth appear to be the offended, may be judged in all hearts <hi>(in reference to what is given or taken in the wrong part;)</hi> and God over all may be exalted for ever<g ref="char:EOLhyphen"/>more: I ſay, that firſt appeared in the offence or enmity againſt the Spi<g ref="char:EOLhyphen"/>rit of God, and was offended thereat; for the Devil was a Lyar from the beginning, and by the Spirit of the world <hi>[even lies and falſhood,]</hi> bewitch<g ref="char:EOLhyphen"/>ed and deceived and betrayed the creature of God from its firſt and true guide, that abode not in the truth, but when he told a lye ſpoke of himſelf, and out of co<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>t <hi>(in and with that condition God firſt placed and ſtated his creature in)</hi> into offence againſt the Spirit of God, was that firſt man lead, and his ſenſe charmed aſleep with and in the worlds beauty and alure<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:172459:4" rendition="simple:additions"/>
+                  <hi>(where things hath been falſely ſpelled to him)</hi> and therein he firſt brought forth the offendour againſt Gods Spirit, &amp; yet one that firſt took the occaſion of offence <hi>(that was angry and full of wrath with his brother, about outward ſacrifice of the worldly ſpirits worſhip, and roſe up againſt him to ſlay him, becauſe of ſin that lay at his door,</hi> whereby was cauſed non accep<g ref="char:EOLhyphen"/>tance with God;) wherefore he was not nor is not accounted and reck<g ref="char:EOLhyphen"/>oned of the Seed of <hi>Adam,</hi> as him that was begotten in his own Image, but was and is the Seed of the envious one <hi>(where ever he reigns and rules end bears Dominion.)</hi> And this Seed is that <hi>Cham</hi> that delights to be uncovering the nakedneſs of that which is <hi>by nature</hi> its father, and re<g ref="char:EOLhyphen"/>joyceth in diſcovering and diſcourſing the creaturely weakneſſe <hi>(where it is not in charity with the creature of God, and in the upbraiding inſulting mind over its brother;)</hi> and on it is the fathers curſe <hi>(it was begotten by)</hi> that is awakened out of the ſleep his ſon had mocked him in, and therefore hath cauſed him to be a ſervant of ſervants, that in their omiſſion of duty to God, have therein neglected to do unto Chriſt <hi>whether ſick or in priſon, in his members, &amp;c.)</hi> as he hath required and commanded, as that which they have done unto them <hi>(by impriſonments and cru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l uſage,</hi> &amp;c.) he taketh done unto himſelf; and ſo cauſeth them to be brought before him <hi>that would not he ſhould reig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> over them)</hi> that he might ſlay <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem with the edge of the Sword of <hi>Juſtice,</hi> and ſo they never come to be eaſed of their ſer<g ref="char:EOLhyphen"/>vitude, and to come to the year of <hi>Jubilee (that ſets free the captivated and enbondaged Seed and Priſoner of hope;)</hi> but ſtick in the birth <hi>[by the way,]</hi> and ſit down in the worldly Judgments, and Confeſſions, and Repent<g ref="char:EOLhyphen"/>ings, and think they are heard for their much ſpeaking, and large Profeſ<g ref="char:EOLhyphen"/>ſions and proteſtations <hi>(all which ſtands in the enmity againſt the Spirit of God, and well-being of his Creature;)</hi> for he hath been wearied out with words, and with the Confeſſions and Repentings of the world, either to thoſe called their ghoſtly Fathers <hi>[in private,]</hi> once or twice a year;) or in publick every week to profeſs to come before God, and tell him, they have erred and ſtrayed from his wayes like loſt Sheep, and done thoſe things they ought not to have done, and left undone thoſe things they ought to have done, <hi>&amp;c.</hi> and that no ſoundneſs is in them <hi>from the crown of the head to the ſole of the foot;</hi>) and thus to continue all their life-time <hi>(in the unſoundneſs, and unwholneſs, and unwholſomneſs of life and ſpirit, and judgment and converſation;)</hi> and yet to ſit as Judges over their fellow-creatures in caſes of Conſcience, and to give ſentence for the execution of juſtice <hi>(for that they themſelves are ready to confeſs is but a ſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t in reſpect to that pollution the body of nature (in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all and tranſgreſſion againſt God) is ſtain<g ref="char:EOLhyphen"/>ed and corrupted with)</hi> needs muſt be to look at a meat in their brothers eye, not diſcerning the beam in their own; and this muſt be concluded hard meaſure, and the ſame muſt they expect from God, <hi>in this day of judgment.</hi>
+               </p>
+            </div>
+            <closer>
+               <signed>R. B.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
